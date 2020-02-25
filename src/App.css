@@ -1,0 +1,11 @@
+html::-webkit-scrollbar { width: 0 !important }
+html{
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none; 
+}
+.container{
+    padding: 1%;
+}
+.container-childs{
+    
+}
